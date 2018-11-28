@@ -8,11 +8,11 @@
   "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",
   "package_not_support_audio":"org.videolan.vlc",
   "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",
-  "update_isforce":"true",
-  "update_isapk":"true",
+  "update_isforce":true,
+  "update_isapk":true,
   "update_title":"Update new version",
   "update_content":"Nothing news.",
   "update_build":"1",
-  "update_version":"1.0a",
+  "update_version":"1.0",
   "update_link":"https://github.com/TeaTV/TeaTV-Public/releases/download/7.9/teatv_7.9r.apk"
 }
