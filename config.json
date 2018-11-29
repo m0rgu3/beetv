@@ -15,4 +15,6 @@
   "update_build":"1",
   "update_version":"1.0",
   "update_link":"https://github.com/beetvapk/beetv/releases/download/1.0/BeeTV_v1.0.apk"
+  "pkg_uninstall":"com.teatv.terrarium",
+  "pkg_uninstall_content":"Old version detect, please delete it."
 }
