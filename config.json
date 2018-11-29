@@ -11,7 +11,7 @@
   "update_isforce":true,
   "update_isapk":false,
   "update_title":"Update new version",
-  "update_content":"Fix bugs.",
+  "update_content":"Fix bugs. If you can't update, please go to beetvapk.me to download latest version.",
   "update_build":"3",
   "update_version":"2.0.1",
   "update_link":"https://github.com/beetvapk/beetv/releases/download/2.01/beetv.apk",
