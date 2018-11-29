@@ -11,10 +11,10 @@
   "update_isforce":true,
   "update_isapk":true,
   "update_title":"Update new version",
-  "update_content":"Nothing news.",
-  "update_build":"1",
-  "update_version":"1.0",
-  "update_link":"https://github.com/beetvapk/beetv/releases/download/1.0/BeeTV_v1.0.apk",
+  "update_content":"Fix bugs.",
+  "update_build":"2",
+  "update_version":"2.0",
+  "update_link":"https://github.com/beetvapk/beetv/releases/download/2.0/beetv.apk",
   "pkg_uninstall":"com.teatv.terrarium",
   "pkg_uninstall_content":"Old version detect, please delete it."
 }
