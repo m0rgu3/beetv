@@ -8,13 +8,13 @@
   "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",
   "package_not_support_audio":"org.videolan.vlc",
   "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",
-  "update_isforce":false,
-  "update_isapk":true,
+  "update_isforce":true,
+  "update_isapk":false,
   "update_title":"Update new version",
   "update_content":"Fix bugs.",
-  "update_build":"2",
-  "update_version":"2.0",
-  "update_link":"https://github.com/beetvapk/beetv/releases/download/2.0/beetv.apk",
+  "update_build":"3",
+  "update_version":"2.0.1",
+  "update_link":"https://github.com/beetvapk/beetv/releases/download/2.01/beetv.apk",
   "pkg_uninstall":"com.teatv.terrarium",
   "pkg_uninstall_content":"Old version detect, please delete it."
 }
