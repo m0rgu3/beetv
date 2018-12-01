@@ -11,7 +11,7 @@
   "update_isforce":true,
   "update_isapk":true,
   "update_title":"Update new version",
-  "update_content":"Update version 2.0.2<br>- FireDL code: 508809. Filelinked code: 30837432</br><br>- Add ability to choose default player.</br><br>Fix download subtitle.</br><br>- Change package name again, due to problem with Play Protect.</br>",
+  "update_content":"Update version 2.0.2<br>- FireDL code: 508809.</br><br>Filelinked code: 30837432</br><br>- Add ability to choose default player.</br><br>- Fix download subtitle.</br><br>- Change package name again, due to problem with Play Protect.</br>",
   "update_build":"5",
   "update_version":"2.0.2",
   "update_link":"https://github.com/beetvapk/beetv/releases/download/2.02/BeeTV_2.0.2.apk",
