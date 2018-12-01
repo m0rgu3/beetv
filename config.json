@@ -9,7 +9,7 @@
   "package_not_support_audio":"org.videolan.vlc",
   "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",
   "update_isforce":true,
-  "update_isapk":false,
+  "update_isapk":true,
   "update_title":"Update new version",
   "update_content":"Update version 2.0.2<br>- FireDL code: 508809. Filelinked code: 30837432</br><br>- Add ability to choose default player.</br><br>Fix download subtitle.</br><br>- Change package name again, due to problem with Play Protect.</br>",
   "update_build":"5",
