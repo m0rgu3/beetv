@@ -15,6 +15,6 @@
 "update_link":"https://github.com/beetvapk/beetv/releases/download/2.0.3/BeeTV_2.0.3.apk",  
 "pkg_uninstall":"com.beetv.me",  
 "pkg_uninstall_content":"Old version detect, please delete it.",
-"http_config":"http",
+"http_config":"https",
 "ads_priority":"startapp"  
 }
