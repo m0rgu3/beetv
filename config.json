@@ -16,5 +16,5 @@
 "pkg_uninstall":"com.beetv.me",  
 "pkg_uninstall_content":"Old version detect, please delete it.",
 "http_config":"http",
-"ads_priority": "unity"  
+"ads_priority":"amazon"  
 }
