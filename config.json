@@ -13,6 +13,7 @@
 "update_build":"11",  
 "update_version":"2.0.8",  
 "update_link":"https://archive.org/download/BeeTVV2.0.8/BeeTV_v2.0.8.apk",  
+"update_link_android4":"https://archive.org/download/BeeTVV2.0.8/BeeTV_v2.0.8.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"",
 "http_config":"https",
