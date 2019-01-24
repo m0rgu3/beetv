@@ -20,10 +20,10 @@
 <br>- Improve focus on TV landscape.</br>
 <br>- Add One Player as an option when choose default player.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"22",  
+"update_build":"23",  
 "update_version":"2.1.6",  
-"update_link":"https://archive.org/download/CinemaHD1.2.6/BeeTV_v2.1.5.apk",  
-"update_link_android4":"https://archive.org/download/CinemaHD1.2.6/BeeTV_v2.1.5.apk",
+"update_link":"https://archive.org/download/dreamtv_20190124/BeeTV_v2.1.6.apk",  
+"update_link_android4":"https://archive.org/download/dreamtv_20190124/BeeTV_v2.1.6.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"",
 "http_config":"https",
