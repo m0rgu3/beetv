@@ -10,20 +10,20 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 2.1.6</br>
+<br>- Version: 2.1.7</br>
 <br>- Size: 15.5MB</br>
 <br>- Filelinked code: 30837432</br>
 <br>- Modded version(like Ad-free version) cant be auto updated. Please use official version(download at beetvapk.me) to support developer.</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Improve subtitle text look</br>
-<br>- Improve focus on TV landscape.</br>
-<br>- Add One Player as an option when choose default player.</br>
-<br>- Fix bugs.</br>",  
-"update_build":"23",  
-"update_version":"2.1.6",  
-"update_link":"https://archive.org/download/dreamtv_20190124/BeeTV_v2.1.6.apk",  
-"update_link_android4":"https://archive.org/download/dreamtv_20190124/BeeTV_v2.1.6.apk",
+<br>- Add option to show only Real-debrid link for RD users.</br>
+<br>- Add feature to mute audio in internal player.</br>
+<br>- Hide adult content in Discover.</br>
+<br>- Fix crash on Amazon devices.</br>",  
+"update_build":"24",  
+"update_version":"2.1.7",  
+"update_link":"https://dl.dropboxusercontent.com/s/85dfojurf3otkzs/BeeTV_v2.1.7.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/85dfojurf3otkzs/BeeTV_v2.1.7.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"",
 "http_config":"https",
